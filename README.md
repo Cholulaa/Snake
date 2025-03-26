@@ -1,6 +1,6 @@
 # 🐍 Snake Game React
 
-Un jeu du serpent moderne et élégant construit avec React, TypeScript et Tailwind CSS. Ce projet propose plusieurs modes de jeu, une gestion des erreurs robuste, un suivi des meilleurs scores et des contrôles réactifs.
+Un jeu du snake moderne et élégant construit avec React, TypeScript et Tailwind CSS. Ce projet propose plusieurs modes de jeu, une gestion des erreurs robuste, un suivi des meilleurs scores et des contrôles réactifs.
 
 ![Capture d'écran du jeu Snake](snake.PNG)
 
@@ -12,9 +12,9 @@ Un jeu du serpent moderne et élégant construit avec React, TypeScript et Tailw
 - **Mode Fantôme** : Passez à travers votre corps sans danger
 
 ### 🏃‍♂️ Vitesses de Jeu
-- **🐌 Lent** : Parfait pour débuter
-- **🚶 Normal** : L'expérience classique
-- **🐇 Rapide** : Pour les experts
+- **🐌 Lent** 
+- **🚶 Normal** 
+- **🐇 Rapide** 
 
 ### 📏 Tailles de Terrain
 - **Petit** : 15x15 cases
