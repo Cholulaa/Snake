@@ -2,7 +2,7 @@
 
 Un jeu du serpent moderne et élégant construit avec React, TypeScript et Tailwind CSS. Ce projet propose plusieurs modes de jeu, une gestion des erreurs robuste, un suivi des meilleurs scores et des contrôles réactifs.
 
-![Capture d'écran du jeu Snake](https://images.unsplash.com/photo-1635170929653-e8dbbd1a1c48?auto=format&fit=crop&q=80&w=800&h=400)
+![Capture d'écran du jeu Snake](snake.PNG)
 
 ## ✨ Caractéristiques
 
